@@ -18,10 +18,11 @@ tags:
 
 ## 付费短信诈骗的3个特点
 1.发送SMS短信
- * sendTextMessage
- * sendMultipartTextMessage
-2.发送SMS短信到付费账号（通常是短代码
-3.不需要用户同意 后台运行
+ * sendTextMessage . 
+ * sendMultipartTextMessage  
+
+2.发送SMS短信到付费账号（通常是短代码  
+3.不需要用户同意 后台运行   
 
 ## 敏感 API 调用
 ![](https://pic.lushx.cn/15788267627105.jpg)
