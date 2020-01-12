@@ -3,15 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://lushan.me/categories/</loc>
+    <loc>https://lushan.me/tags/afl/</loc>
+    <lastmod>2020-01-12T09:51:04+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lushan.me/posts/my-first-post/</loc>
+    <lastmod>2020-01-12T09:51:04+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lushan.me/tags/fuzzing/</loc>
+    <lastmod>2020-01-12T09:51:04+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://lushan.me/</loc>
+    <lastmod>2020-01-12T09:51:04+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lushan.me/posts/</loc>
+    <lastmod>2020-01-12T09:51:04+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://lushan.me/tags/</loc>
+    <lastmod>2020-01-12T09:51:04+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lushan.me/categories/</loc>
   </url>
   
 </urlset>

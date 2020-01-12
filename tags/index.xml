@@ -7,9 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright lushan</copyright>
+    <lastBuildDate>Sun, 12 Jan 2020 09:51:04 +0800</lastBuildDate>
     
 	<atom:link href="https://lushan.me/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>AFL</title>
+      <link>https://lushan.me/tags/afl/</link>
+      <pubDate>Sun, 12 Jan 2020 09:51:04 +0800</pubDate>
+      
+      <guid>https://lushan.me/tags/afl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fuzzing</title>
+      <link>https://lushan.me/tags/fuzzing/</link>
+      <pubDate>Sun, 12 Jan 2020 09:51:04 +0800</pubDate>
+      
+      <guid>https://lushan.me/tags/fuzzing/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
