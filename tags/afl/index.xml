@@ -14,10 +14,10 @@
     
     <item>
       <title>AFL Quick Start</title>
-      <link>https://lushan.me/posts/my-first-post/</link>
+      <link>https://lushan.me/posts/afl-quick-start/</link>
       <pubDate>Sun, 12 Jan 2020 09:51:04 +0800</pubDate>
       
-      <guid>https://lushan.me/posts/my-first-post/</guid>
+      <guid>https://lushan.me/posts/afl-quick-start/</guid>
       <description>&lt;p&gt;它通过对源码进行重新编译时进行插桩的方式自动产生测试用例来探索二进制程序内部新的执行路径。&lt;/p&gt;</description>
     </item>
     
