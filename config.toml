@@ -21,8 +21,8 @@ custom_css = "/static/css/custom.css"
   author = "lushan"
   authorwebsite = "lushan.me"
   avatar = "https://pic1.zhimg.com/80/v2-5f2e129e114b573ce25128ec0f519a46_hd.jpg"
-  contact = "Your contact link (ex. mailto:foo@example.com)"
-  bio = "Your short bio"
+  contact = "mailto:lushann.99@gmail.com"
+  bio = "I was born ready."
   
   # Short subtitle/tagline. This is displayed in the header.
   subtitle = "I was born ready. "
