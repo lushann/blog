@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright lushan</copyright>
-    <lastBuildDate>Sun, 12 Jan 2020 09:51:04 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jan 2020 09:57:51 +0800</lastBuildDate>
     
 	<atom:link href="https://lushan.me/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://lushan.me/pages/about/</link>
+      <pubDate>Sun, 12 Jan 2020 09:57:51 +0800</pubDate>
+      
+      <guid>https://lushan.me/pages/about/</guid>
+      <description>菜🐔</description>
+    </item>
     
     <item>
       <title>AFL Quick Start</title>

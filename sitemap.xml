@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://lushan.me/pages/about/</loc>
+    <lastmod>2020-01-12T09:57:51+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lushan.me/</loc>
+    <lastmod>2020-01-12T09:57:51+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lushan.me/pages/</loc>
+    <lastmod>2020-01-12T09:57:51+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lushan.me/tags/afl/</loc>
     <lastmod>2020-01-12T09:51:04+08:00</lastmod>
   </url>
@@ -14,11 +29,6 @@
   
   <url>
     <loc>https://lushan.me/tags/fuzzing/</loc>
-    <lastmod>2020-01-12T09:51:04+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lushan.me/</loc>
     <lastmod>2020-01-12T09:51:04+08:00</lastmod>
   </url>
   
