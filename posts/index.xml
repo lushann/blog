@@ -21,5 +21,14 @@
       <description>&lt;p&gt;它通过对源码进行重新编译时进行插桩的方式自动产生测试用例来探索二进制程序内部新的执行路径。&lt;/p&gt;</description>
     </item>
     
+    <item>
+      <title>AndroidAppRE</title>
+      <link>https://lushan.me/posts/androidre01/</link>
+      <pubDate>Sun, 12 Jan 2020 07:51:04 +0800</pubDate>
+      
+      <guid>https://lushan.me/posts/androidre01/</guid>
+      <description>&lt;p&gt;你作为一个病毒分析人员，分析一个付费短信诈骗（premium sms fraud）的app&lt;/p&gt;</description>
+    </item>
+    
   </channel>
 </rss>
