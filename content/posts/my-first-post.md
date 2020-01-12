@@ -1,7 +1,7 @@
 ---
 title: "AFL Quick Start"
 date: 2020-01-12T09:51:04+08:00
-draft: true
+draft: false
 tags: 
     - Fuzzing
     - AFL
