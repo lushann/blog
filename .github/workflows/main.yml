@@ -20,7 +20,9 @@ jobs:
         # extended: true
 
     - name: Build
-      run: hugo --theme=hugo_theme_pickles --baseUrl="https://lushan.me"
+      run: |
+       git clone -b release https://github.com/mismith0227/hugo_theme_pickles themes/hugo_theme_pickles
+       hugo --theme=hugo_theme_pickles --baseUrl="https://lushan.me"
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v2
