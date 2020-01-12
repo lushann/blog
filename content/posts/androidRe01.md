@@ -1,5 +1,5 @@
 ---
-title: AndroidAppRE #1 - Beginning RE with jadx
+title: AndroidAppRE 01 - Beginning RE with jadx
 date: 2020-01-12 07:51:04 +0800
 draft: false
 tags: 
@@ -17,11 +17,11 @@ tags:
 3. 初步了解分析病毒app的思路与方法
 
 ## 付费短信诈骗的3个特点
-1. 发送SMS短信
+1.发送SMS短信
  * sendTextMessage
  * sendMultipartTextMessage
-1. 发送SMS短信到付费账号（通常是短代码
-2. 不需要用户同意 后台运行
+2.发送SMS短信到付费账号（通常是短代码
+3.不需要用户同意 后台运行
 
 ## 敏感 API 调用
 ![](https://pic.lushx.cn/15788267627105.jpg)
